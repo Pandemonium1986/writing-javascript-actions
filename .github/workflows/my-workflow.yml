@@ -13,6 +13,6 @@ jobs:
     - name:              "hello-action"
       uses:              ./.github/actions/hello-world
       with:
-        first-greeting:  "Riri"
-        second-greeting: "Fifi"
+        # first-greeting:  "Riri"
+        # second-greeting: "Fifi"
         third-greeting:  "Loulou"
